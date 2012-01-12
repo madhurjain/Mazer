@@ -1,0 +1,4 @@
+This was a Micromouse (http://en.wikipedia.org/wiki/Micromouse) simulator i was working on 
+along with my buddy intelomkar. I built a custom user control called the Maze Tile to be 
+used in the Maze. intelomkar was responsible for implementing the shortest path algo (A*, Flood fill) 
+which he didn't :P
